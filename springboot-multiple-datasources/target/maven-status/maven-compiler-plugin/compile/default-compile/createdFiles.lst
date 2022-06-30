@@ -1,0 +1,13 @@
+net\guides\springboot\springbootmultipledatasources\security\entities\User.class
+net\guides\springboot\springbootmultipledatasources\orders\entities\Order.class
+net\guides\springboot\springbootmultipledatasources\config\WebMvcConfig.class
+net\guides\springboot\springbootmultipledatasources\security\repositories\UserRepository.class
+net\guides\springboot\springbootmultipledatasources\security\entities\Address.class
+META-INF\spring-configuration-metadata.json
+net\guides\springboot\springbootmultipledatasources\services\UserOrdersService.class
+net\guides\springboot\springbootmultipledatasources\orders\entities\OrderItem.class
+net\guides\springboot\springbootmultipledatasources\config\SecurityDataSourceConfig.class
+net\guides\springboot\springbootmultipledatasources\SpringbootMultipleDatasourcesApplication.class
+net\guides\springboot\springbootmultipledatasources\orders\repositories\OrderRepository.class
+net\guides\springboot\springbootmultipledatasources\controllers\HomeController.class
+net\guides\springboot\springbootmultipledatasources\config\OrdersDataSourceConfig.class
